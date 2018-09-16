@@ -27,3 +27,5 @@ Then visit http://localhost:8000 in your browser of choice. You might get an err
 Install [geth](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum "Geth install") if you don't already have it, then run the above command.
 
 Then refresh the page in your browser 
+
+app.js and package.json file are modified to work with RPC change pointer url in app.js to current RPC.
