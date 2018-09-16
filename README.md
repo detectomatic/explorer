@@ -28,4 +28,4 @@ Install [geth](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum "G
 
 Then refresh the page in your browser 
 
-app.js and package.json file are modified to work with RPC change pointer url in app.js to current RPC.
+app.js and package.json file are modified to work with RPC.You need to change the pointer url in app.js to current RPC provider for it to function properly.
